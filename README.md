@@ -33,7 +33,4 @@ Skills used (Javascript):
 Ideas for further projects:
 Since this is such a simple API it could be used in a huge variety of projects, since it simply posts to a JSON database. One idea would be using it for updating and managing a stock information database for the inventory of a small business, as the inventory of a shop is unlikely to need a more advanced database (e.g. a relational one) since almost no data/trend analysis is needed.
 
-
-5. Create a new file (I named mine index.js)
-6. Copy and paste in the code
-7. Install Insomnia and use this programme to test the API. An alternative would be Bootstrap, and the 'curl' command also works from the command line, in windows.
+=
