@@ -16,7 +16,7 @@ Installation and dependencies (Windows):
 6. Copy and paste in the code
 7. Install Insomnia and use this programme to test the API. An alternative would be Bootstrap, and the 'curl' command also works from the command line, in windows.
 
-This API borrows heavily from the coding project detailed in the tutorial found at https://www.youtube.com/watch?v=pKd0Rpw7O48
+This API borrows heavily from the coding project detailed in the tutorial found at https://www.youtube.com/watch?v=pKd0Rpw7O48 .
 However, it is slightly different because some functions used in the video have since been changed in recent updates, notably the validate() function. I also added liberal use of comments for my own notes and learning purposes.
 
 The function of this API is as a learning resource primarily. It can handle basic requests to modify and view a JSON database. 
