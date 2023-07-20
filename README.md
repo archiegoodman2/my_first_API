@@ -11,7 +11,7 @@ Installation and dependencies (Windows):
 1. Once node is installed, create a new folder to work in. Navigate to this folder via the command line, and run: npm init --yes.
 2. Next, run: npm i express
 3. Next, run: npm i joi
-4. Next, navigate to your new folder in whichever programme you prefer: I prefer VSCode.
+4. Next, navigate to your new folder in whichever application you prefer: I prefer VSCode.
 5. Create a new file (I named mine index.js)
 6. Copy and paste in the code
 7. Install Insomnia and use this programme to test the API. An alternative would be Bootstrap, and the 'curl' command also works from the command line, in windows.
